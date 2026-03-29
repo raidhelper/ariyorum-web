@@ -6,6 +6,10 @@
       "dest": "/.well-known/$1"
     },
     {
+      "src": "/listing/(.*)",
+      "dest": "/listing.html"
+    },
+    {
       "src": "/(.*)",
       "dest": "/$1"
     }
