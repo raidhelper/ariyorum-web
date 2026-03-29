@@ -1,9 +1,0 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [{
-      "appID": "TEAMID.com.ariyorum.app",
-      "paths": ["/listing/*", "/"]
-    }]
-  }
-}
